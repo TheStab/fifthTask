@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FigmaRegistration</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="jane_example_com">jane@example.com</string>
+    <string name="password_hint">............</string>
+    <string name="next">Next</string>
+    <string name="sign_up">Sign up</string>
+    <string name="privacy_policy">By signing up, you agree to Photo’s Terms of Service and Privacy Policy.</string>
+</resources>
